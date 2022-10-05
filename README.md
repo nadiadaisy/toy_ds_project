@@ -1,2 +1,3 @@
 # toy_ds_project
-#project creation date: 2022-10-04
+project creation date: 2022-10-04
+author: Nadia Scurfield
